@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on web dev and hardware security projects.<br>I am now interested in security, data science, and ML.<br>I am presently learning front-end tools and frameworks.<br>
+I am currently working on web dev and hardware security projects.<br>I am interested in security, data science, and ML.<br>I am presently learning front-end tools and frameworks.<br>
 
 
 # 💻 Tech Stack:
